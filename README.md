@@ -4,11 +4,7 @@ Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I
 
 
 ## Coding Profiles
-
-<a href="https://www.codechef.com/users/night_king_">
-  <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
+<h1>aca va un a con link</a>
 <a href="https://codeforces.com/profile/night_king_">
   <img  alt="Parth's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
