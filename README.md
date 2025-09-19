@@ -62,23 +62,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown" />
 </p>
 
----
-
-### 🚀 Featured Projects  
-- 🌳 **EcoRaíces** → Georeferencing platform for native species conservation.  
-- 🏋️ **GymTrack** → Gym management system (Python + Flask + SQLite).  
-- 🌵 **Jamuché** → E-commerce for cacti & succulents with product catalog and design branding.  
-- 🔧 **Serviteca App** → Tire-shop / mechanical service SaaS.  
-- 🌎 **Rincón Guajiro** → Tourism & culture platform with Astro + Svelte.  
-- 🤖 **Portfolio AI** → Personal portfolio with AI integrations (Astro + Svelte).  
-
----
- 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeiidHi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeiidHi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
