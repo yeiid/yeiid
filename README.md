@@ -73,7 +73,7 @@
 - 🤖 **Portfolio AI** → Personal portfolio with AI integrations (Astro + Svelte).  
 
 ---
-
+ 
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YeiidHi&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -81,3 +81,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeiidHi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
