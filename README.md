@@ -4,6 +4,11 @@
   <p>📍 Bogotá, Colombia (Available for Global Remote Work)</p>
 
   <p>
+    <a href="https://github.com/yeiid/yeiid/blob/main/README.md"><img src="https://img.shields.io/badge/Lang-English-0ea5e9?style=flat-square" alt="English" /></a>
+    <a href="https://github.com/yeiid/yeiid/blob/main/README.es.md"><img src="https://img.shields.io/badge/Idioma-Español-1e293b?style=flat-square" alt="Español" /></a>
+  </p>
+
+  <p>
     <a href="https://portfolio.neuraljira.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-portfolio.neuraljira.tech-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://neuraljira.tech" target="_blank"><img src="https://img.shields.io/badge/Studio-neuraljira.tech-f97316?style=flat-square&logo=safari&logoColor=white" alt="NeuralJIRA" /></a>
     <a href="https://www.linkedin.com/in/yeifran-hernandez-751665203" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yeifran_Hernández-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,26 +21,27 @@
 
 ### 🏛️ Engineering & Architecture Focus
 
-I specialize in designing and engineering high-reliability software, scalable web ecosystems, and edge-resilient systems:
+I design and engineer high-reliability software, scalable B2B SaaS platforms, and edge-resilient architectures:
 
-- ⚡ **High-Performance Backends & Microservices**: Building lightweight, ultra-fast servers with **Go (Golang 1.24)** and asynchronous Python/Node.js pipelines.
-- 🔐 **Offline-First & Cryptography**: Air-gapped license validation, cryptographic digital signatures using **Ed25519**, and resilient local persistence with **SQLite WAL Mode** and **PostgreSQL**.
-- 🤖 **Edge AI & Distributed Inference**: Distributing local LLM inference via **llama.cpp RPC clusters** across heterogeneous Linux and unrooted Android Termux hardware.
-- 🌐 **Modern Full-Stack Applications**: Multi-tenant architectures, interactive 3D interfaces with **Three.js**, and high-performance frontends utilizing **Astro**, **Next.js**, and **Svelte**.
+- ⚡ **High-Performance Backends & Microservices**: Lightweight, low-latency servers built with **Go (Golang 1.24)** and asynchronous **Python / Node.js** pipelines.
+- 🔐 **Offline-First & Cryptography**: Air-gapped license validation, cryptographic digital signatures with **Ed25519**, and fault-tolerant local persistence using **SQLite (WAL Mode)** and **PostgreSQL**.
+- 🤖 **Edge AI & Distributed Inference**: Distributed LLM inference via **llama.cpp RPC clusters** across heterogeneous Linux nodes and unrooted Android Termux hardware.
+- 🌐 **Modern Full-Stack Applications**: Multi-tenant architectures, interactive 3D digital twins with **Three.js**, and sub-second frontends powered by **Astro**, **Next.js**, and **Svelte**.
 
 ---
 
-### 🚀 Key Projects & Ecosystem
+### 🚀 Production Systems & Key Projects
 
-| Project | Tech Stack | Focus & Impact | Live Link |
+| Project | Architecture & Stack | Engineering Impact | Links |
 | :--- | :--- | :--- | :--- |
-| **NeuralJIRA** | Astro, TypeScript, Docker | Enterprise Software Engineering Studio & SaaS incubator | [neuraljira.tech](https://neuraljira.tech/) |
-| **Inventario ADN 3D** | Three.js, TypeScript, PostgreSQL | Multi-tenant 3D warehouse inventory management for mass events | [web.neuraljira.tech](https://web.neuraljira.tech/) |
-| **CactusNet** | Astro, TypeScript, MikroTik API | ISP fiber-optic management portal with automated billing | [cactusnet.com.co](https://cactusnet.com.co/) |
-| **Cluster llama.cpp RPC** | llama.cpp, RPC, Linux, Termux | Distributed LLM inference across LAN and edge hardware | [GitHub Repo](https://github.com/yeiid) |
-| **GymTrack & License Server** | Go 1.24, Ed25519, SQLite WAL | Offline-first license validation and gym management ecosystem | [Live Demo](https://demo-html-five.vercel.app/) |
-| **Jamuché E-commerce** | React, Node.js, Express, MongoDB | Artisan product catalog, state-managed shopping cart & checkout | [jamuchee.vercel.app](https://jamuchee.vercel.app/) |
-| **EcoRaíces** | Next.js, Prisma, SQLite, GIS | Spatial data modeling, tree geolocation & offline synchronization | [ecoraices.neuraljira.tech](https://ecoraices.neuraljira.tech/) |
+| **NeuralJIRA Studio** | Astro, TypeScript, Tailwind, Docker | Software engineering studio & B2B SaaS incubator | [Live Site](https://neuraljira.tech/) |
+| **Inventario ADN 3D** | Three.js, TypeScript, PostgreSQL, PWA | Multi-tenant 3D warehouse inventory for high-concurrency events | [Live App](https://web.neuraljira.tech/) |
+| **GymTrack & License Server** | Go 1.24, Ed25519, Python/Flask, SQLite WAL | Offline-first gym management & air-gapped cryptographic licensing | [Live Demo](https://demo-html-five.vercel.app/) |
+| **JVSD POS & KDS** | Node.js, WebSockets, SQLite WAL | 100% offline-first restaurant POS, QR table ordering & live KDS | Production B2B |
+| **Cluster llama.cpp RPC** | C++, llama.cpp RPC, Linux, Android Termux | Distributed LLM inference over LAN/USB without proprietary GPUs | [Source Code](https://github.com/yeiid/llama.cpp-movil) |
+| **CactusNet ISP Portal** | Astro, TypeScript, MapLibre GL | Trilingual fiber-optic ISP portal (<1s LCP) with coverage mapping | [Live Site](https://cactusnet.com.co/) |
+| **Jamuché E-Commerce** | React, TypeScript, Node.js, MongoDB | Full-stack e-commerce platform with real-time stock management | [Live](https://jamuchee.vercel.app/) · [Code](https://github.com/yeiid/Jamuchee) |
+| **EcoRaíces** | Next.js, Prisma, SQLite, GIS | Spatial data modeling, tree geolocation & offline field sync | [Code](https://github.com/yeiid/EcoraicesProyect) |
 
 ---
 
@@ -53,7 +59,7 @@ I specialize in designing and engineering high-reliability software, scalable we
   </p>
 
   <p>
-    <strong>Frameworks & UI:</strong><br />
+    <strong>Frameworks & 3D Web:</strong><br />
     <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
@@ -64,7 +70,7 @@ I specialize in designing and engineering high-reliability software, scalable we
   </p>
 
   <p>
-    <strong>Databases & Infrastructure:</strong><br />
+    <strong>Databases, Security & Edge Infrastructure:</strong><br />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/SQLite_(WAL)-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -73,12 +79,3 @@ I specialize in designing and engineering high-reliability software, scalable we
     <img src="https://img.shields.io/badge/Ed25519-10B981?style=flat-square&logo=shieldsdotio&logoColor=white" alt="Ed25519" />
   </p>
 </div>
-
----
-
-### 📌 Recommended Pinned Repositories on GitHub Profile
-To showcase production-grade architecture, replace legacy beginner repos with:
-1. `neuralJIRA` — Official repository for the software studio and enterprise client platform.
-2. `llama.cpp-movil` — Heterogeneous edge AI inference cluster over LAN / Termux.
-3. `porfolionew` — Architecture decisions, cryptography, and interactive technical portfolio.
-4. `Jamuchee` — Full-stack e-commerce platform and product indexing system.
